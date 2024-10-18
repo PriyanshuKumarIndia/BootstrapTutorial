@@ -1,0 +1,40 @@
+.container{
+    border: 3px solid black;
+    margin-top: 20px;
+}
+
+#R1{
+    background-color: orange;
+    height: 70px;
+}
+
+#R2{
+    background-color: pink;
+    height: max-content;
+    padding:0;
+}
+
+#R2 ul{
+    list-style: none;
+    padding: 0;
+    margin: 0;
+}
+
+#R2 ul li{
+    display: inline-block;
+    margin: 3px;
+}
+
+#R3{
+    height: max-content;
+}
+
+#R3C2{
+    background-color: aqua;
+}
+
+#R4{
+    background-color: purple;
+    height: max-content;
+    color: aliceblue;
+}
